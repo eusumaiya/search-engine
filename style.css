@@ -54,7 +54,7 @@
    padding-left: 10px;
  }
  
- .player-list{
+ .players{
    display: flex;
    align-items: center;
    cursor: pointer;
